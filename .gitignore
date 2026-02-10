@@ -1,0 +1,19 @@
+# Ignore binary files
+**/*.exe
+
+# Ignore I/O files
+*.inp
+*.out
+
+# Ignore my code images.
+CodeSnap/
+
+# Ignore VSCode's folder.
+.vscode/
+
+# Ignore VSCode's temp files.
+tempCodeRunner.*
+tempCodeRunnerFile.*
+
+# Python cache files
+__pycache__/
